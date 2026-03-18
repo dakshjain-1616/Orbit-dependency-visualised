@@ -1,0 +1,40 @@
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.tox/
+.mypy_cache/
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temporary clone directories
+neo_clone_*/
+neo_save_*/
+/tmp/
+
+# Generated demo data (large file, regenerate with save_analysis.py)
+architecture_analysis.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
