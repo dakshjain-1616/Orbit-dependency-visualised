@@ -32,7 +32,7 @@ Paste a repo URL → Orbis clones it, parses the ASTs, detects architecture patt
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/your-username/orbis.git
+git clone[ https://github.com/your-username/orbis.git](https://github.com/dakshjain-1616/Orbit-dependency-visualised)
 cd orbis
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
